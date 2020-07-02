@@ -1,0 +1,2 @@
+# python-static
+static
